@@ -1,0 +1,71 @@
+<!-------w----------
+
+    Name: Chelsea Bahsler
+    Date: April 16, 2021.
+    Description:
+    The get-in-contact page of my website.
+    
+------------------->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <script src="script.js"></script>
+    <title>Contact</title>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+</head>
+<header>
+    <img id="banner" src="images/banner.png" alt="banner">
+</header>
+<nav>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+        <li><a href="contact.html">Contact Information</a></li>
+    </ul>
+</nav>
+<body>
+<main id="contact-main">
+<form id="form"
+action="index.html" 
+method="post">
+<fieldset>
+    <h2 id="contactTitle">Contact Form</h2>
+    <ul>
+        <li>
+            <label for="fullName">Full Name:</label>
+            <input type="text" id="fullName">
+            <p class="contact error" id="fullName_error">* Required field</p>
+        </li>
+        <li>
+            <label for="phoneNumber">Phone Number:</label>
+            <input type="text" id="phoneNumber">
+            <p class="contact error" id="phoneNumberformat_error">* Invalid phone number</p>
+        </li>
+        <li>
+            <label for="email">Email:</label>
+			<input id="email" name="email" type="text">
+			<p class="contact error" id="emailformat_error">* Invalid email address</p>
+        </li>
+        <li>
+            <label for="comments" id="lastlabel">Comments:</label>
+            <textarea id="comments"></textarea>
+        </li>
+    </ul>
+</fieldset>
+<fieldset id="buttons">
+    <button type="submit" id="submit">Submit</button>
+    <button type="reset" id="reset">Reset</button>
+</fieldset>
+</form>
+</main>
+</body>
+<footer>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+        <li><a href="contact.html">Contact Information</a></li>
+    </ul>
+</footer>
+</html> 
