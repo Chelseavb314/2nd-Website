@@ -4,6 +4,16 @@
 <p><b>Reason for creation:</b> BIT Term 2 Web Development @ RRC Polytechnic</p>
 <p>This is one of the first websites I've ever created. At the time I was learning how each language integrated with each other and I had no knowledge on website design.</p>
 
+## Reference Images
+### Home Page
+![image](https://github.com/Chelseavb314/2nd-Website/assets/55150598/281cbd2b-bd6f-4646-90fd-697e2383d3b9)
+<br>
+### Art Portfolio
+![image](https://github.com/Chelseavb314/2nd-Website/assets/55150598/8fb77e4f-4f9a-498c-a0bc-7314778d93e9)
+<br>
+### Contact Form (JS only)
+![image](https://github.com/Chelseavb314/2nd-Website/assets/55150598/e8acbf82-4e61-4c66-89f9-0eb6628d2cb8)
+
 ## View the website - Terminal Setup
 To view the website...<br>
 1) clone this repository via a terminal<br>
