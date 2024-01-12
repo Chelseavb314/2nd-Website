@@ -1,11 +1,12 @@
-# [2nd website](https://chelseavb314.github.io/2nd-Website/)
+# Github Pages
+Hosted website: [2nd website](https://chelseavb314.github.io/2nd-Website/)
+
 ## Project Description
 <p><b>Languages:</b> HTML / CSS / JS</p>
 <p><b>Main feature:</b> js form with client side errors if form is misinputted</p> 
 <p><b>Year created:</b> 2021</p>
 <p><b>Reason for creation:</b> BIT Term 2 Web Development @ RRC Polytechnic</p>
 <p>This is one of the first websites I've ever created. At the time I was learning how each language integrated with each other and I had no knowledge on website design.</p>
-<p><b>Hosted Website Link:</b>
 
 ## Reference Images
 ### Home Page
