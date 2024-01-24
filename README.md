@@ -1,15 +1,15 @@
-# Github Pages
-Hosted website: [2nd website](https://chelseavb314.github.io/2nd-Website/)
+# Web Development - Introductory Project 2<br>
+[Click here to view the website](https://chelseavb314.github.io/2nd-Website/)<br>
 
-## Project Description
-<p><b>Languages:</b> HTML / CSS / JS</p>
-<p><b>Main feature:</b> js form with client side errors if form is misinputted</p> 
-<p><b>Year created:</b> 2021</p>
-<p><b>Reason for creation:</b> BIT Term 2 Web Development @ RRC Polytechnic</p>
-<p>This is one of the first websites I've ever created. At the time I was learning how each language integrated with each other and I had no knowledge on website design.</p>
+* Languages:</b> HTML / CSS / JS
+* Year created: 2021
+* Main feature: javascript form with client side errors if form is misinputted
+* Created for:
+  * Business Information Technology program
+  * Term 2 Web Development
+  * Red River College Polytechnic
 
-## Reference Images
-### Home Page
+## Home Page
 ![image](https://github.com/Chelseavb314/2nd-Website/assets/55150598/281cbd2b-bd6f-4646-90fd-697e2383d3b9)
 <br>
 ### Art Portfolio
@@ -17,6 +17,12 @@ Hosted website: [2nd website](https://chelseavb314.github.io/2nd-Website/)
 <br>
 ### Contact Form (JS only)
 ![image](https://github.com/Chelseavb314/2nd-Website/assets/55150598/e8acbf82-4e61-4c66-89f9-0eb6628d2cb8)
+
+## Description
+* simple portfolio website
+* an introduction to Javascript project
+<br>
+Website design gets simpler and website features get more advanced in later projects.
 
 ## View the website - Terminal Setup
 To view the website...<br>
